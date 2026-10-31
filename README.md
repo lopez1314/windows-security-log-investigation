@@ -53,7 +53,3 @@ No se ha determinado la causa específica de las restricciones de cuenta ni se h
 El proyecto demuestra el uso de herramientas nativas de Windows para investigar eventos de autenticación, interpretar códigos de error y documentar hallazgos basados en evidencias.
 
 **Resultado:** no se confirmó ningún incidente de seguridad dentro del conjunto de eventos analizado.
-
-## 7. Limitaciones
-
-El análisis se realizó sobre una selección de eventos de un único equipo. No constituye una auditoría de seguridad integral ni permite descartar amenazas no observadas.
